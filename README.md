@@ -10,7 +10,7 @@ Tested on MacOS.
 
 Berore
 
-`foo123`, `bar456`. `baz789` are your plain passwords.
+`foo123` , `bar456` and `baz789` are your plain passwords.
 
 ```
 # RTX1210 Rev.xx.xx.xx
